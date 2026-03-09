@@ -1,6 +1,5 @@
 import collections
 
-
 class AwerbuchDFS:
     def __init__(self, adj, start_node):
         self.adj = adj
