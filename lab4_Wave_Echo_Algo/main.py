@@ -1,6 +1,5 @@
 import collections
 
-
 class TreeWaveNode:
     def __init__(self, node_id, neighbors):
         self.node_id = node_id
